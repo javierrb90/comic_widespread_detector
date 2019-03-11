@@ -1,0 +1,1 @@
+from .widespread_detector import *
